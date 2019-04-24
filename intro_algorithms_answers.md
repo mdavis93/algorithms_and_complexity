@@ -18,3 +18,44 @@
      - ADD desired add-ins
      - STIR as to mix contents of cup
      - DRINK and ENJOY
+     
+   - _Calculating a Tip_
+     - GET total cost of meal
+     - EVALUATE server's performance
+     - DETERMINE gratuity percentage
+     - CALCULATE percentage against total cost
+     - ADD above as gratutity to cost
+     - PAY combined total of MEAL COST and TIP
+     
+   - _Fill Gas Tank In Car_
+     - DRIVE to Gas Station
+     - APPROACH gas pump
+       - Ensure gas tank access door on car is facing pump
+     - EXIT vehicle
+     - Close vehicle door
+     - WALK to pump
+     - DECIDE to pay at pump, or inside
+       - IF pay at pump
+         - Swipe payment method
+       - IF pay inside
+         - Enter establishment
+         - Pre-pay for desired volume of gas
+         - Exit establishment
+         - Return to pump in which vehicle is parked
+     - OPEN fuel access door on vehicle
+     - UNSCREW gas cap (if applicable)
+       - Place cap in safe location to prevent loss
+     - LIFT pump nozzle from pumping station receptacle
+     - SELECT desired fuel grade
+       - PRESS corresponding button for desired fuel grade
+     - INSERT nozzle into fuel tank opening
+     - SQUEEZE lever in handle of nozzle to begin fueling
+     - MAINTAIN pressure on lever until desired fueling volume has been dispensed
+     - RELEASE lever to halt fueling
+     - REMOVE nozzle from fuel tank opening
+     - REPLACE nozzle to receptacle on pump station receptacle
+     - REPLACE gas cap to fuel tank opening
+     - SECURE gas cap by turning gas cap in appropriate direction
+     - CLOSE fuel access door
+     - GET Receipt
+    
