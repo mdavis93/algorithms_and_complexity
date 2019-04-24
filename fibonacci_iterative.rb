@@ -2,7 +2,10 @@ def fib(n)
   fib_0 = 0
   fib_1 = 1
 
-  for n in 0..n-1
+  return 0 if n == 0
+  return 1 if n == 1
+
+  for n in 1..n-1
     temp = fib_0
     fib_0 = fib_1
     fib_1 = temp + fib_0
